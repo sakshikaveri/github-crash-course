@@ -9,6 +9,7 @@ function isabove18()
 
 function showDOB(){
     return dob
+
 }
 
 function newFn(){
@@ -18,4 +19,5 @@ function newFn(){
 //wrtiting a faulty code
 function faultCode(){
     console.log("Hi this is a faulty code "+name1)
+
 }
