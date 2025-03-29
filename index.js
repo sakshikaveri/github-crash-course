@@ -12,5 +12,10 @@ function showDOB(){
 }
 
 function newFn(){
-    console.log("Hi this is a new fn")
+    console.log("Hi this is a new fn" )
+}
+
+//wrtiting a faulty code
+function faultCode(){
+    console.log("Hi this is a faulty code "+name1)
 }
