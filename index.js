@@ -23,3 +23,7 @@ function faultCode(){
 function showName(){
     console.log('Hi my name is ${name}');
 }
+
+function newFeature(){
+    console.log("This is a new feature")
+}
