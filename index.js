@@ -21,3 +21,7 @@ function faultCode(){
     console.log("Hi this is a faulty code "+name1)
 
 }
+
+function showName(){
+    console.log('Hi my name is ${name}');
+}
