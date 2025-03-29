@@ -6,3 +6,7 @@ function isabove18()
 {
     return age >= 18
 }
+
+function showDOB(){
+    return dob
+}
