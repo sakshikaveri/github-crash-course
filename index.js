@@ -10,3 +10,7 @@ function isabove18()
 function showDOB(){
     return dob
 }
+
+function newFn(){
+    console.log("Hi this is a new fn")
+}
