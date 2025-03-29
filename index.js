@@ -38,4 +38,5 @@ function newFeatureC(){
     console.log("This is a new featureB");
     console.log("This is a new feature again!!")
     onsole.log("This is a new feature again!!!")
+    console.log("Hi")
 }
