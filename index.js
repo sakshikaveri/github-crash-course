@@ -28,3 +28,8 @@ function newFeature(){
     console.log("This is a new feature");
     console.log("This is a new feature again!!")
 }
+
+function newFeatureB(){
+    console.log("This is a new featureB");
+    console.log("This is a new feature again!!")
+}
