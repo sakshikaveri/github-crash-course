@@ -33,3 +33,8 @@ function newFeatureB(){
     console.log("This is a new featureB");
     console.log("This is a new feature again!!")
 }
+
+function newFeatureC(){
+    console.log("This is a new featureB");
+    console.log("This is a new feature again!!")
+}
